@@ -1,4 +1,4 @@
-AI4Health Competition 2024 — Hospital Readmission Risk Prediction
+AI4Health Competition — Hospital Readmission Risk Prediction
 
 A competition project (Care4You team) predicting early hospital readmission risk from patient discharge data — ~28,500 patient records and 275 raw features — culminating in a CatBoost model tuned for Matthews Correlation Coefficient (MCC) with a custom decision threshold.
 
